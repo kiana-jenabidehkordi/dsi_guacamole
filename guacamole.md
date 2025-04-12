@@ -1,4 +1,5 @@
 # Recipe for Guacamole
+
 Serves 4
 
 - 0.5 small yellow onion, finely diced
@@ -8,3 +9,4 @@ Serves 4
 - 2 garlic cloves, minced
 - 1 lime, juiced
 - 0.5 teaspoon sea salt
+  3 Avacados
